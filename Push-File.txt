@@ -1,2 +1,0 @@
-file ini dipush dari local directory
-test 2
